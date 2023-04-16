@@ -1,0 +1,8 @@
+True;Match;s.png;image;input image path;
+True;Move;;image;;
+True;Click;Left_Down;image;;
+True;Delay;300;image;;
+True;Click;Left_Up;image;;
+True;Delay;1000;;;
+True;RemoveEvent;PUSH;image;remove Event;
+True;Goto;0;image;;
