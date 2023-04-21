@@ -1,0 +1,10 @@
+True;Move;892,159;;;
+True;Delay;500;;;
+True;Click;Left_Down;;;
+True;Offset;0,100;;;
+True;Delay;1000;;;
+True;Offset;0,100;;;
+True;Delay;1000;;;
+True;Offset;0,100;;;
+True;Delay;1000;;;
+True;Click;Left_Up;;;
