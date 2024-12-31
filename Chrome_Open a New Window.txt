@@ -1,0 +1,4 @@
+[
+{"Enable":true,"Mode":"Delay","Action":"200","Event":"","Note":""},
+{"Enable":true,"Mode":"Run .exe","Action":"CMD.exe /c \u0022start chrome.exe --new-window google.com\u0022","Event":"","Note":""}
+]
